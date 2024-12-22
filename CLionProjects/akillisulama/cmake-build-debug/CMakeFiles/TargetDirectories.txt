@@ -1,0 +1,3 @@
+/home/taha29/CLionProjects/akillisulama/cmake-build-debug/CMakeFiles/akillisulama.dir
+/home/taha29/CLionProjects/akillisulama/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/taha29/CLionProjects/akillisulama/cmake-build-debug/CMakeFiles/rebuild_cache.dir
